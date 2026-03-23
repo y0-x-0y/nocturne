@@ -31,7 +31,7 @@ Boot-sequence splash on first visit. SPA navigation with cyberpunk loading trans
 <h3 align="center">Reading</h3>
 
 <p align="center">
-  <img src="docs/home.jpg" alt="article" width="720">
+  <img src="docs/article.jpg" alt="article" width="720">
 </p>
 
 Each post has a bilingual title and a language toggle. Switch between Chinese and English without page reload.
