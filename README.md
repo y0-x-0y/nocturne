@@ -1,45 +1,58 @@
+<p align="center">
+  <img src="docs/preview.gif" alt="boot sequence" width="720">
+</p>
+
 <h1 align="center">
-  <img src="docs/home.jpg" alt="nocturne" width="800">
-  <br>
-  nocturne
-  <br>
-  <sub>stories / dreams / essays — bilingual</sub>
+  <code>nocturne</code>
 </h1>
 
 <p align="center">
-  <a href="https://y0-x-0y.github.io/nocturne"><b>ENTER</b></a>
+  stories / dreams / essays — bilingual
 </p>
-
----
-
-A cyberpunk-themed personal space for stories, dreams, and essays. Every piece is written in both Chinese and English, switchable with one click.
-
-Neon glows, animated grids, glitch effects, scanlines, floating particles. A built-in music player persists across pages. SPA transitions with a boot-sequence splash on first visit.
-
----
-
-<h3 align="center">Article View</h3>
 
 <p align="center">
-  <img src="docs/article.jpg" alt="article" width="800">
+  <a href="https://y0-x-0y.github.io/nocturne">
+    <img src="https://img.shields.io/badge/%E2%96%B6_%20ENTER-ff2d95?style=for-the-badge&labelColor=0a0a0a" alt="ENTER">
+  </a>
 </p>
 
-Bilingual toggle on every post. Switch between Chinese and English without reloading.
+---
+
+<p align="center">
+  <img src="docs/home_new.png" alt="home" width="720">
+</p>
+
+A cyberpunk-themed writing space. Neon glows, animated grids, glitch text, scanlines, floating particles. Every piece written in Chinese and English, switchable mid-read.
+
+Boot-sequence splash on first visit. SPA navigation with cyberpunk loading transitions. Built-in music player that persists across pages.
 
 ---
 
-| Category | |
-|----------|---|
-| **Stories** | Fiction and narrative |
-| **Feelings** | Personal reflections |
-| **Essays** | Philosophy and debate |
-| **Dreams** | Dream journals |
+<h3 align="center">Reading</h3>
+
+<p align="center">
+  <img src="docs/home.jpg" alt="article" width="720">
+</p>
+
+Each post has a bilingual title and a language toggle. Switch between Chinese and English without page reload.
 
 ---
 
-Built with [Astro](https://astro.build) + [Tailwind CSS](https://tailwindcss.com). Deployed on GitHub Pages.
+### Categories
+
+```
+STORIES    fiction and narrative
+FEELINGS   personal reflections
+ESSAYS     philosophy and debate
+DREAMS     dream journals
+```
+
+---
+
+### Stack
+
+Astro + Tailwind CSS + GitHub Pages
 
 ```bash
-npm install
-npm run dev
+npm install && npm run dev
 ```
